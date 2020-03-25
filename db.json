@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "cars",
+            "value": "cars"
+        },
+        {
+            "id": 2,
+            "name": "electronics",
+            "value": "electronics"
+        },
+        {
+            "id": 3,
+            "name": "Mobile, Computers",
+            "value": "Mobile, Computers"
+        }
+    ],
+    "products": [{
+        "id": 1,
+        "categoryId": 1,
+        "name": "Volvo",
+        "url": "https://imgd.aeplcdn.com/1056x594/cw/ec/18626/Volvo-XC90-Right-Front-Three-Quarter-164462.jpg?wm=0&q=85",
+        "description": "VOLVO, is a Swedish luxury vehicles brand and a subsidiary of the Chinese automotive company Geely. It is headquartered in Torslanda in Gothenburg, Sweden."
+    }, {
+        "id": 2,
+        "categoryId": 1,
+        "name": "Mercedes",
+        "url": "https://www.mercedes-benz.co.in/passengercars/_jcr_content/image.MQ6.2.2x.20190123105639.png",
+        "description": "Mercedes-Benz is known for luxury vehicles, vans, trucks, buses, coaches and ambulances."
+    }, {
+        "id": 3,
+        "categoryId": 1,
+        "name": "Audi",
+        "url": "https://cdn.gearpatrol.com/wp-content/uploads/2019/01/Complete-Audi-Buying-Guide-gear-patrol-lead-full.jpg",
+        "description": "Audi is a member of the Volkswagen Group and has its roots at Ingolstadt, Bavaria, Germany."
+    }, {
+        "id": 4,
+        "categoryId": 2,
+        "name": "Washing Machine",
+        "url": "https://assets.croma.com/medias/sys_master/images/images/ha0/hc2/8862335893534/219976_pjpeg.jpg",
+        "description": "A washing machine is a machine that washes dirty clothes."
+    }, {
+        "id": 5,
+        "categoryId": 2,
+        "name": "Television",
+        "url": "https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/full-hd/pd/un32n5300afxza/gallery/DT-UN32N5300AFXZA-heroimage-050118.jpg",
+        "description": "A television (also known as a TV) is a machine with a screen. Televisions receive broadcasting signals and change them into pictures and sound."
+    }, {
+        "id": 6,
+        "categoryId": 2,
+        "name": "Refrigerators",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/71DuofqGR8L._SX466_.jpg",
+        "description": "A refrigerator is a machine for keeping things cold. It is sometimes called a fridge or an icebox."
+    }, {
+        "id": 7,
+        "categoryId": 3,
+        "name": "Mobiles",
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "description": "A mobile phone (also known as a hand phone, cell phone, or cellular telephone) is a small portable radio telephone."
+    }, {
+        "id": 8,
+        "categoryId": 3,
+        "name": "Tablets",
+        "url": "https://icdn2.digitaltrends.com/image/digitaltrends/samsung-galaxy-tab-s6-1.jpg",
+        "description": "A tablet is a wireless touch screen personal computer (PC) that is smaller than a notebook but larger than a smartphone."
+    }, {
+        "id": 9,
+        "categoryId": 3,
+        "name": "Laptops",
+        "url": "https://cdn.mos.cms.futurecdn.net/ahevYTh9pWRzkNPF85MQhb-1200-80.jpg",
+        "description": "A laptop computer is a portable personal computer powered by a battery, or an AC cord plugged into an electrical outlet, which is also used to charge the battery."
+    }]
+}
